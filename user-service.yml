@@ -10,7 +10,7 @@ spring:
 #    url: jdbc:oracle:thin:@localhost:1521:xe
 #    username: p3user
 #    password: p4ssw0rd
-    url: jdbc:oracle:thin:@localhost:1521:pdborcl
+    url: jdbc:oracle:thin:@localhost:1521:orcl
     username: root
     password: password
     driver-class-name: oracle.jdbc.driver.OracleDriver
